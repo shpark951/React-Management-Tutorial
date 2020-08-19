@@ -1,3 +1,6 @@
+##  Management System
+본 프로젝트는 유튜브 동빈나 강의입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
